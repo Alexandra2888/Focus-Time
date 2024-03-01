@@ -58,8 +58,11 @@ In the project directory, you can run:
 
 ## Screenshots
 
-Include screenshots of your app here.
+![app1](https://github.com/Alexandra2888/Focus-Timer/assets/76844097/5f2bdb4f-da6e-4779-8bfe-36ffc6123e19)
 
+![app2](https://github.com/Alexandra2888/Focus-Timer/assets/76844097/1e43f638-651d-421f-8f4c-38b2cabc884b)
+
+![app3](https://github.com/Alexandra2888/Focus-Timer/assets/76844097/2e2d197b-a0d7-4a90-aba8-fdefdfdb6d50)
 
 
 ## Contributing
